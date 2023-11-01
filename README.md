@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/2115425Amar/2115425Amar/blob/main/White%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">

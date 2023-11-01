@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [EcommerceWebsite](https://github.com/2115425Amar/Ecommerce-2)
 
-- 🌱 I’m currently learning **MERN Full Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://2115425amar.github.io/portfolio3/](https://2115425amar.github.io/portfolio3/)
 

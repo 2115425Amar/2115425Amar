@@ -1,5 +1,5 @@
 ![logo](https://github.com/2115425Amar/2115425Amar/blob/main/White%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Amar</h1>
+<h1 align="center">Hi 👋, I'm Amar Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2115425amar&label=Profile%20views&color=0e75b6&style=flat" alt="2115425amar" /> </p>

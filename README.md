@@ -4,11 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2115425amar&label=Profile%20views&color=0e75b6&style=flat" alt="2115425amar" /> </p>
 
-- 🔭 I’m currently working on [EcommerceWebsite](https://github.com/2115425Amar/Ecommerce-2)
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://2115425amar.github.io/portfolio3/](https://2115425amar.github.io/portfolio3/)
+
+- - 🔭 I’m currently working on personal [EcommerceWebsite](https://github.com/2115425Amar/Ecommerce-2)
 
 - 📫 How to reach me **amar2115425@akgec.ac.in**
 

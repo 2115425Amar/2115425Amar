@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://2115425amar.github.io/portfolio3/](https://2115425amar.github.io/portfolio3/)
+- 👨‍💻 All of my projects are available at [https://chimerical-gingersnap-eb77a1.netlify.app/](https://chimerical-gingersnap-eb77a1.netlify.app/)
 
 - - 🔭 I’m currently working on personal [EcommerceWebsite](https://github.com/2115425Amar/Ecommerce-2)
 

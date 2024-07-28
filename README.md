@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2115425amar&label=Profile%20views&color=0e75b6&style=flat" alt="2115425amar" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m **MERN Stack** developer
+
+- 👨‍💻 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://chimerical-gingersnap-eb77a1.netlify.app/](https://chimerical-gingersnap-eb77a1.netlify.app/)
 

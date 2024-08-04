@@ -99,6 +99,5 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=2115425Amar&theme=react&hide_border=false" alt="2115425amar" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2115425Amar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="2115425amar" /></p>

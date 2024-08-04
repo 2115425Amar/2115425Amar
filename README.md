@@ -94,15 +94,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"  />
-
-###
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2115425amar&show_icons=true&locale=en&layout=compact" alt="2115425amar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2115425amar&show_icons=true&locale=en" alt="2115425amar" /></p>
-![2115425Amar's Stats](https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=2115425Amar&theme=react&hide_border=false" alt="2115425amar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true" /></p>
+

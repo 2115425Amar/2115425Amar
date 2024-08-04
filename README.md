@@ -1,3 +1,4 @@
+![2](https://github.com/user-attachments/assets/bca4b1ce-56ed-4e96-9f6e-c93d06837c44)
 
 <h1 align="center">Hi 👋, I'm Amar Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>

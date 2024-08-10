@@ -24,9 +24,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/amar_gupta.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amar_gupta.02" height="30" width="40" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://leetcode.com/u/Amar_Gupta02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amar_gupta" height="50" width="60" /></a>
+ <a href="https://leetcode.com/u/Amar_Gupta02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amar_gupta" height="30" width="40" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amar_gupta" height="50" width="60" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amar_gupta" height="30" width="40" /></a>
  
 ###
 
@@ -97,7 +97,15 @@
 
 
 
+<p><img width="410" height="200" align="left" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2115425Amar&theme=react&hide_border=false" alt="2115425amar" /></p>
+<p ><img width="414" height="200" align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true"  /></p>
+<p><img width="410" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2115425Amar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="2115425amar" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=2115425Amar&theme=react&hide_border=false" alt="2115425amar" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2115425Amar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="2115425amar" /></p>
+###
+
+###
+</br></br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2115425Amar&theme=buddhism" alt="2115425amar" /></a> </p>
+
+

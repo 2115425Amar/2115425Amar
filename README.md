@@ -1,8 +1,10 @@
 ![2](https://github.com/user-attachments/assets/bca4b1ce-56ed-4e96-9f6e-c93d06837c44)
 
 <h1 align="center">Hi 👋, I'm Amar Gupta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<!-- ![git1](https://github.com/user-attachments/assets/874efc16-aaae-4376-ad2d-f18a0ba64ff1) -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2115425amar&label=Profile%20views&color=0e75b6&style=flat" alt="2115425amar" /> </p>
 
 
@@ -10,9 +12,9 @@
 
 - 👨‍💻 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://chimerical-gingersnap-eb77a1.netlify.app/](https://chimerical-gingersnap-eb77a1.netlify.app/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://chimerical-gingersnap-eb77a1.netlify.app/)
 
-- - 🔭 I’m currently working on personal [EcommerceWebsite](https://github.com/2115425Amar/Ecommerce-2)
+- 🔭 I’m currently working on personal [ShoppingWebsite](https://major-project-livid-rho.vercel.app/)
 
 - 📫 My LinkTree **https://linktr.ee/Amar_Gupta0.2**
 
@@ -97,15 +99,11 @@
 
 
 
-<p><img width="410" height="200" align="left" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2115425Amar&theme=react&hide_border=false" alt="2115425amar" /></p>
-<p ><img width="414" height="200" align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true"  /></p>
-<p><img width="410" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2115425Amar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="2115425amar" /></p>
-
-###
-
-###
-</br></br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2115425Amar&theme=buddhism" alt="2115425amar" /></a> </p>
+<p><img width="414" height="200" align="left" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2115425Amar&theme=react&hide_border=false" alt="2115425amar" /></p>
+<p ><img width="410" height="200" align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=2115425Amar&theme=react&show_icons=true&hide_border=false&count_private=true"  /></p>
+<p><img width="410" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2115425Amar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="2115425amar" /></p>
 
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=2115425Amar)](https://github.com/2115425Amar/github-profile-trophy)

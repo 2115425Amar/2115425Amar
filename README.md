@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [PortFolio](https://chimerical-gingersnap-eb77a1.netlify.app/)
+- 👨‍💻 All of my projects are available at [PortFolio](https://amar-gupta-portfolio.vercel.app/)
 
 - 🔭 I’m currently working on personal [ShoppingWebsite](https://major-project-livid-rho.vercel.app/)
 

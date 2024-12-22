@@ -10,11 +10,13 @@
 
 - 🌱 I’m **MERN Stack** developer
 
-- 👨‍💻 I’m currently learning **DSA**
+- 👨‍💻 I am expanding my skills in **Data Structures & Algorithms**
+  
+- 🤖 Exploring Data Science and ML, building models and extracting insights.
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://amar-gupta-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on personal [ShoppingWebsite](https://major-project-livid-rho.vercel.app/)
+- 🔭 I’m currently working on [Schola₹Shopy](https://major-project-livid-rho.vercel.app/)
 
 - 📫 My LinkTree **https://linktr.ee/Amar_Gupta0.2**
 
@@ -24,11 +26,12 @@
 <h3 align="left"></h3>
 <a href="https://www.linkedin.com/in/amar-gupta-381701241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar gupta" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/amar_gupta.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amar_gupta.02" height="30" width="40" /></a>
- &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://leetcode.com/u/Amar_Gupta02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amar_gupta" height="30" width="40" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amar_gupta" height="30" width="40" /></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/amar_gupta.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amar_gupta.02" height="30" width="40" /></a>
+
  
 ###
 

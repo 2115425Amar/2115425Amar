@@ -1,7 +1,7 @@
 ![2](https://github.com/user-attachments/assets/bca4b1ce-56ed-4e96-9f6e-c93d06837c44)
 
-<h1 align="center">Hi 👋, I'm Amar Gupta</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Namaste 👋, I'm Amar Gupta</h1>
+<!-- <h3 align="center">Web Developer</h3> -->
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <!-- ![git1](https://github.com/user-attachments/assets/874efc16-aaae-4376-ad2d-f18a0ba64ff1) -->
 
@@ -53,18 +53,20 @@
   <img width="15" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="50" alt="appwrite logo"  />
   <img width="15" /> -->
+   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
-  <img width="15" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="15" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
   <img width="15" /> -->
-  <img src="https://skillicons.dev/icons?i=babel" height="50" alt="babel logo"  />
-  <img width="15" />
+<!--   <img src="https://skillicons.dev/icons?i=babel" height="50" alt="babel logo"  />
+  <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="15" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
@@ -73,14 +75,13 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="50" alt="heroku logo"  />
-  <img width="15" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="50" alt="heroku logo"  />
+  <img width="15" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50" alt="kubernetes logo"  />
   <img width="15" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="15" /> -->
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
   <img width="15" />
 <!--   <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />

@@ -1,4 +1,4 @@
-![Black and White Simple Art Director LinkedIn Banner (1)](https://github.com/user-attachments/assets/21d901f8-17f9-4f81-be6e-97b4bba270f3)
+
 
 <h1 align="center">Namaste 👋, I'm Amar Gupta</h1>
 <!-- <h3 align="center">Web Developer</h3> -->

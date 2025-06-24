@@ -8,17 +8,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2115425amar&label=Profile%20views&color=0e75b6&style=flat" alt="2115425amar" /> </p>
 
 
-- 🌱 I’m **MERN Stack** developer
-
 - 👨‍💻 I am expanding my skills in **Data Structures & Algorithms**
-  
-- 🤖 Exploring Data Science and ML, building models and extracting insights.
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://amar-gupta-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on [Schola₹Shopy](https://major-project-livid-rho.vercel.app/)
-
 - 📫 My LinkTree **https://linktr.ee/Amar_Gupta0.2**
+
+- 🌱 I’m Full Stack Software Developer 
+    
+
+- 🤖 Exploring Data Science and ML, building models and extracting insights.
 
 ###
 

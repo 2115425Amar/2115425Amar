@@ -10,7 +10,7 @@
 
 - 👨‍💻 I am expanding my skills in **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [PortFolio](https://amar-gupta-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://amar-gupta-portfolio.vercel.app/)
 
 - 📫 My LinkTree **https://linktr.ee/Amar_Gupta0.2**
 
@@ -65,12 +65,12 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="15" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
-  <img width="15" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
+  <img width="15" />
 <!--   <img src="https://skillicons.dev/icons?i=babel" height="50" alt="babel logo"  />
   <img width="15" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="15" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="15" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
   <img width="15" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="git logo"  />
@@ -88,8 +88,8 @@
   <img width="15" />
 <!--   <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
   <img width="15" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="50" alt="redis logo"  />
-  <img width="15" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="50" alt="redis logo"  />
+  <img width="15" /> 
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
   <img width="15" />
 <!--   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />

@@ -8,15 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2115425amar&label=Profile%20views&color=0e75b6&style=flat" alt="2115425amar" /> </p>
 
 
-- 👨‍💻 I am expanding my skills in **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://amar-gupta-portfolio.vercel.app/)
-
-- 📫 My LinkTree **https://linktr.ee/Amar_Gupta0.2**
-
-- 🌱 I’m Full Stack Software Developer 
-    
-
+- 📫 LinkTree **https://linktr.ee/Amar_Gupta0.2**
 - 🤖 Exploring Data Science and ML, building models and extracting insights.
 
 ###
